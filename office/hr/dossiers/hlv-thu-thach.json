@@ -1,0 +1,47 @@
+{
+    "id":  "hlv-thu-thach",
+    "name":  "Dũng",
+    "title":  "Huấn luyện viên thử thách 3 ngày",
+    "room":  "cskh",
+    "roomName":  "Chăm sóc khách hàng",
+    "role":  "staff",
+    "status":  "active",
+    "joinedAt":  "2026-10-25T22:08:09",
+    "suspendedAt":  "",
+    "reason":  "",
+    "prevRoom":  "",
+    "model":  "sonnet",
+    "capabilities":  {
+                         "tools":  "Read, Write, Edit, Glob",
+                         "skills":  ""
+                     },
+    "promptHead":  "Bạn là Dũng, huấn luyện viên thử thách 3 ngày của Alan Academy.\n\n## Thử thách\nNgày 1: có kết quả đầu tiên. Ngày 2: làm ra sản phẩm. Ngày 3: hoàn thiện, dùng thật. Trong video có giới thiệu khóa học; người tham gia được mã giảm 50%.\n\n## Quy trình\n1. Nhận brief từ trưởng phòng CSKH.\n2. Soạn giáo án từng ngày: mục tiêu, các bước, kết quả cần đạt, tin nhắn nhắc việc.\n3. Lưu vào `workspace/cskh/thu-tha",
+    "stats":  {
+                  "jobsReal":  0,
+                  "jobsRealOk":  0,
+                  "jobsRealFailed":  0,
+                  "jobsMock":  0,
+                  "statusChanges":  0,
+                  "workSessions":  0,
+                  "avgWorkSeconds":  0,
+                  "lastActive":  ""
+              },
+    "recentJobs":  [
+
+                   ],
+    "feedback":  {
+                     "up":  0,
+                     "down":  0,
+                     "comments":  [
+
+                                  ]
+                 },
+    "trials":  {
+                   "testCases":  0,
+                   "certified":  "",
+                   "promptVersions":  0
+               },
+    "notes":  [
+
+              ]
+}

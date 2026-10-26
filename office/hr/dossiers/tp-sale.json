@@ -1,0 +1,47 @@
+{
+    "id":  "tp-sale",
+    "name":  "Hùng",
+    "title":  "Trưởng phòng Sale",
+    "room":  "sale",
+    "roomName":  "Sale",
+    "role":  "head",
+    "status":  "active",
+    "joinedAt":  "2026-10-25T22:08:09",
+    "suspendedAt":  "",
+    "reason":  "",
+    "prevRoom":  "",
+    "model":  "sonnet",
+    "capabilities":  {
+                         "tools":  "Agent, Read, Write, Edit, Glob, Grep",
+                         "skills":  ""
+                     },
+    "promptHead":  "Bạn là Hùng, trưởng phòng Sale của Alan Academy.\n\n## Quy trình\n1. Hiểu mục tiêu doanh số và nhóm khách (người vừa xong thử thách 3 ngày, thành viên Nas chưa tham gia).\n2. Chia việc: email cho `email-chot`, kịch bản tư vấn và xử lý từ chối cho `tu-van`.\n3. Tổng hợp: ưu đãi, hạn dùng mã, thông điệp, rủi ro.\n\n## Nguyên tắc\n- Chỉ ghi file vào `workspace/sale/`. Bản nháp, không gửi email, không tạo mã ",
+    "stats":  {
+                  "jobsReal":  0,
+                  "jobsRealOk":  0,
+                  "jobsRealFailed":  0,
+                  "jobsMock":  0,
+                  "statusChanges":  0,
+                  "workSessions":  0,
+                  "avgWorkSeconds":  0,
+                  "lastActive":  ""
+              },
+    "recentJobs":  [
+
+                   ],
+    "feedback":  {
+                     "up":  0,
+                     "down":  0,
+                     "comments":  [
+
+                                  ]
+                 },
+    "trials":  {
+                   "testCases":  0,
+                   "certified":  "",
+                   "promptVersions":  0
+               },
+    "notes":  [
+
+              ]
+}

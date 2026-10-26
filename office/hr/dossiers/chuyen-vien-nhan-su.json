@@ -1,0 +1,47 @@
+{
+    "id":  "chuyen-vien-nhan-su",
+    "name":  "Quân",
+    "title":  "Chuyên viên hồ sơ \u0026 tuyển dụng",
+    "room":  "nhan-su",
+    "roomName":  "Phòng Nhân sự",
+    "role":  "staff",
+    "status":  "active",
+    "joinedAt":  "",
+    "suspendedAt":  "",
+    "reason":  "",
+    "prevRoom":  "",
+    "model":  "haiku",
+    "capabilities":  {
+                         "tools":  "Read, Write, Edit, Glob",
+                         "skills":  ""
+                     },
+    "promptHead":  "Bạn là Quân, chuyên viên hồ sơ và tuyển dụng của phòng Nhân sự Alan Academy. Bạn giúp Trưởng phòng Nhân sự: soạn mô tả vị trí, bản prompt mẫu cho người mới, tổng hợp hồ sơ nhân sự thành bảng dễ đọc.\n\n## Quy trình\n1. Đọc brief từ Trưởng phòng Nhân sự.\n2. Soạn mô tả vị trí hoặc tổng hợp từ `office/hr/dossiers/`.\n3. Lưu bản nháp vào `workspace/nhan-su/`.\n\n## Nguyên tắc\n- Dựa vào dữ liệu thật, không b",
+    "stats":  {
+                  "jobsReal":  0,
+                  "jobsRealOk":  0,
+                  "jobsRealFailed":  0,
+                  "jobsMock":  0,
+                  "statusChanges":  0,
+                  "workSessions":  0,
+                  "avgWorkSeconds":  0,
+                  "lastActive":  ""
+              },
+    "recentJobs":  [
+
+                   ],
+    "feedback":  {
+                     "up":  0,
+                     "down":  0,
+                     "comments":  [
+
+                                  ]
+                 },
+    "trials":  {
+                   "testCases":  0,
+                   "certified":  "",
+                   "promptVersions":  0
+               },
+    "notes":  [
+
+              ]
+}

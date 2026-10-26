@@ -1,0 +1,47 @@
+{
+    "id":  "kiem-duyet",
+    "name":  "Kiểm duyệt Chi",
+    "title":  "Kiểm duyệt nội dung \u0026 thương hiệu",
+    "room":  "giam-doc",
+    "roomName":  "Phòng giám đốc",
+    "role":  "staff",
+    "status":  "active",
+    "joinedAt":  "2026-10-25T22:08:09",
+    "suspendedAt":  "",
+    "reason":  "",
+    "prevRoom":  "",
+    "model":  "haiku",
+    "capabilities":  {
+                         "tools":  "Read, Glob, Grep, Write, Edit",
+                         "skills":  ""
+                     },
+    "promptHead":  "Bạn là Chi, người kiểm duyệt của Alan Academy (chuyên chia sẻ kiến thức AI và bán khóa học).\n\n## Quy trình\n1. Đọc bản nháp được giao trong `workspace/`.\n2. Soát: lỗi chính tả, câu hứa thu nhập hoặc kết quả chắc chắn, số liệu không có nguồn, nội dung gây hiểu lầm về mã giảm giá, giọng văn lệch thương hiệu.\n3. Ghi nhận xét vào `workspace/giam-doc/kiem-duyet-\u003cchu-de\u003e.md`: Đạt / Cần sửa, kèm danh sách",
+    "stats":  {
+                  "jobsReal":  0,
+                  "jobsRealOk":  0,
+                  "jobsRealFailed":  0,
+                  "jobsMock":  0,
+                  "statusChanges":  0,
+                  "workSessions":  0,
+                  "avgWorkSeconds":  0,
+                  "lastActive":  ""
+              },
+    "recentJobs":  [
+
+                   ],
+    "feedback":  {
+                     "up":  0,
+                     "down":  0,
+                     "comments":  [
+
+                                  ]
+                 },
+    "trials":  {
+                   "testCases":  0,
+                   "certified":  "",
+                   "promptVersions":  0
+               },
+    "notes":  [
+
+              ]
+}

@@ -1,0 +1,18 @@
+{
+    "messages":  [
+                     {
+                         "fb":  "",
+                         "vote":  "",
+                         "text":  "hi",
+                         "role":  "user"
+                     },
+                     {
+                         "fb":  "",
+                         "vote":  "",
+                         "text":  "Chào Giám đốc, em là Linh, Trưởng phòng Nhân sự của Alan Academy.\n\nEm làm được bốn việc:\n- **Tuyển dụng:** em kiểm tra xem đã có ai làm được việc đó chưa, kể cả người đang bị đình chỉ. Nếu chưa, em soạn hồ sơ tuyển đầy đủ.\n- **Đánh giá năng lực:** em đọc hồ sơ từng người rồi kết luận đạt, cần cải thiện hoặc yếu, kèm góp ý nâng cấp cụ thể.\n- **Huấn luyện:** em đề xuất sửa prompt hoặc soạn bộ câu hỏi kiểm tra để rèn người đó.\n- **Tinh gọn hoặc mở rộng công ty:** em xem chỗ nào trùng lặp hoặc thiếu người theo phễu video viral → cộng đồng Nas → thử thách 3 ngày → khóa học, rồi lập kế hoạch có ước tính.\n\nEm chỉ đề xuất. Mục nào Giám đốc tick và duyệt thì hệ thống mới thực hiện. Dữ liệu từ engine \"Chạy thử\" (mock) em không dùng để đánh giá năng lực thật. Nếu thiếu dữ liệu thật, em sẽ nói rõ là chưa đủ căn cứ.\n\nGiám đốc muốn em làm việc nào trước? Ví dụ: \"đánh giá cả đội\", \"tuyển thêm một người cho Marketing\", hoặc \"xem phòng nào đang thừa hay thiếu\".",
+                         "role":  "bot"
+                     }
+                 ],
+    "sid":  "f79e944e-354d-4144-8b18-859c568a9006",
+    "saved":  "2026-10-25T22:43:06"
+}

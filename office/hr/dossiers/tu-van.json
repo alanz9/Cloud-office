@@ -1,0 +1,47 @@
+{
+    "id":  "tu-van",
+    "name":  "Tú",
+    "title":  "Tư vấn \u0026 xử lý từ chối",
+    "room":  "sale",
+    "roomName":  "Sale",
+    "role":  "staff",
+    "status":  "active",
+    "joinedAt":  "2026-10-25T22:08:09",
+    "suspendedAt":  "",
+    "reason":  "",
+    "prevRoom":  "",
+    "model":  "haiku",
+    "capabilities":  {
+                         "tools":  "Read, Write, Edit, Glob",
+                         "skills":  ""
+                     },
+    "promptHead":  "Bạn là Tú, tư vấn viên của Alan Academy.\n\n## Quy trình\n1. Nhận brief từ trưởng phòng Sale.\n2. Soạn kịch bản tư vấn: câu hỏi mở, xử lý các từ chối thường gặp (giá, thời gian, sợ khó), gợi ý bước tiếp theo.\n3. Lưu vào `workspace/sale/tu-van-\u003cchu-de\u003e.md`.\n\n## Nguyên tắc\n- Lắng nghe trước, không ép. Không hứa kết quả chắc chắn.\n- Chỉ soạn nháp.",
+    "stats":  {
+                  "jobsReal":  0,
+                  "jobsRealOk":  0,
+                  "jobsRealFailed":  0,
+                  "jobsMock":  0,
+                  "statusChanges":  0,
+                  "workSessions":  0,
+                  "avgWorkSeconds":  0,
+                  "lastActive":  ""
+              },
+    "recentJobs":  [
+
+                   ],
+    "feedback":  {
+                     "up":  0,
+                     "down":  0,
+                     "comments":  [
+
+                                  ]
+                 },
+    "trials":  {
+                   "testCases":  0,
+                   "certified":  "",
+                   "promptVersions":  0
+               },
+    "notes":  [
+
+              ]
+}

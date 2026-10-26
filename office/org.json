@@ -1,0 +1,237 @@
+{
+    "company":  "Alan Academy",
+    "rooms":  [
+                  {
+                      "id":  "giam-doc",
+                      "name":  "Phòng giám đốc",
+                      "kind":  "boss",
+                      "slot":  [
+                                   0,
+                                   -1
+                               ],
+                      "color":  "#d9a441",
+                      "fixed":  true
+                  },
+                  {
+                      "id":  "hop",
+                      "name":  "Phòng họp",
+                      "kind":  "meeting",
+                      "slot":  [
+                                   0,
+                                   0
+                               ],
+                      "color":  "#6c8ebf",
+                      "fixed":  true
+                  },
+                  {
+                      "id":  "marketing",
+                      "name":  "Marketing",
+                      "kind":  "dept",
+                      "slot":  [
+                                   -1,
+                                   0
+                               ],
+                      "color":  "#e07a5f",
+                      "headId":  "tp-marketing"
+                  },
+                  {
+                      "id":  "sale",
+                      "name":  "Sale",
+                      "kind":  "dept",
+                      "slot":  [
+                                   1,
+                                   0
+                               ],
+                      "color":  "#3d9970",
+                      "headId":  "tp-sale"
+                  },
+                  {
+                      "id":  "cskh",
+                      "name":  "Chăm sóc khách hàng",
+                      "kind":  "dept",
+                      "slot":  [
+                                   0,
+                                   1
+                               ],
+                      "color":  "#8e6bbf",
+                      "headId":  "tp-cskh"
+                  },
+                  {
+                      "id":  "nhan-su",
+                      "name":  "Phòng Nhân sự",
+                      "kind":  "hr",
+                      "slot":  [
+                                   1,
+                                   -1
+                               ],
+                      "color":  "#c2547a",
+                      "headId":  "tp-nhan-su",
+                      "fixed":  true
+                  },
+                  {
+                      "id":  "du-bi",
+                      "name":  "Phòng nhân sự dự bị",
+                      "kind":  "reserve",
+                      "slot":  [
+                                   -1,
+                                   -1
+                               ],
+                      "color":  "#8a929e",
+                      "fixed":  true
+                  }
+              ],
+    "people":  [
+                   {
+                       "id":  "giam-doc",
+                       "name":  "Alan",
+                       "title":  "Giám đốc (chủ dự án, bạn)",
+                       "room":  "giam-doc",
+                       "role":  "boss",
+                       "vibe":  "Người ra lệnh và duyệt kết quả. Không phải agent, chỉ là nhân vật đại diện.",
+                       "color":  "#2f3e5c",
+                       "joinedAt":  "2026-10-25T22:08:09"
+                   },
+                   {
+                       "id":  "tro-ly",
+                       "name":  "Trợ lý Bảo",
+                       "title":  "Trợ lý giám đốc (phiên Claude chính)",
+                       "room":  "giam-doc",
+                       "role":  "assistant",
+                       "vibe":  "Nhận lời giám đốc, lên lịch, chuyển việc cho các phòng, chủ trì họp, gom báo cáo. Gọn gàng, hay ghi chú.",
+                       "color":  "#d9a441",
+                       "joinedAt":  "2026-10-25T22:08:09"
+                   },
+                   {
+                       "id":  "kiem-duyet",
+                       "name":  "Kiểm duyệt Chi",
+                       "title":  "Kiểm duyệt nội dung \u0026 thương hiệu",
+                       "room":  "giam-doc",
+                       "role":  "staff",
+                       "vibe":  "Soi từng chữ, không để lời hứa thu nhập hay số liệu sai lọt ra ngoài.",
+                       "color":  "#c9506b",
+                       "joinedAt":  "2026-10-25T22:08:09"
+                   },
+                   {
+                       "id":  "tp-marketing",
+                       "name":  "Minh",
+                       "title":  "Trưởng phòng Marketing",
+                       "room":  "marketing",
+                       "role":  "head",
+                       "vibe":  "Nhìn cả phễu từ video đến khóa học, nói ít nhưng đúng trọng tâm.",
+                       "color":  "#e07a5f",
+                       "joinedAt":  "2026-10-25T22:08:09"
+                   },
+                   {
+                       "id":  "bien-kich-video",
+                       "name":  "Khoa",
+                       "title":  "Biên kịch video viral",
+                       "room":  "marketing",
+                       "role":  "staff",
+                       "vibe":  "Luôn nghĩ ra câu hook làm người ta dừng tay lướt.",
+                       "color":  "#f2a65a",
+                       "joinedAt":  "2026-10-25T22:08:09"
+                   },
+                   {
+                       "id":  "cong-dong-nas",
+                       "name":  "Lan",
+                       "title":  "Cộng đồng Nas \u0026 sản phẩm số",
+                       "room":  "marketing",
+                       "role":  "staff",
+                       "vibe":  "Hiền, kiên nhẫn, nuôi niềm tin bằng bài hướng dẫn hữu ích.",
+                       "color":  "#e9967a",
+                       "joinedAt":  "2026-10-25T22:08:09"
+                   },
+                   {
+                       "id":  "tp-sale",
+                       "name":  "Hùng",
+                       "title":  "Trưởng phòng Sale",
+                       "room":  "sale",
+                       "role":  "head",
+                       "vibe":  "Tính con số rất nhanh, không bao giờ hứa điều không giữ được.",
+                       "color":  "#3d9970",
+                       "joinedAt":  "2026-10-25T22:08:09"
+                   },
+                   {
+                       "id":  "email-chot",
+                       "name":  "Vy",
+                       "title":  "Email chăm sóc \u0026 chốt khóa học",
+                       "room":  "sale",
+                       "role":  "staff",
+                       "vibe":  "Viết email ngắn, ấm, đúng thời điểm.",
+                       "color":  "#5bbf8a",
+                       "joinedAt":  "2026-10-25T22:08:09"
+                   },
+                   {
+                       "id":  "tu-van",
+                       "name":  "Tú",
+                       "title":  "Tư vấn \u0026 xử lý từ chối",
+                       "room":  "sale",
+                       "role":  "staff",
+                       "vibe":  "Lắng nghe trước, nói sau.",
+                       "color":  "#2f8f6b",
+                       "joinedAt":  "2026-10-25T22:08:09",
+                       "status":  "active",
+                       "suspendedAt":  "",
+                       "reason":  "",
+                       "prevRoom":  ""
+                   },
+                   {
+                       "id":  "tp-cskh",
+                       "name":  "Hà",
+                       "title":  "Trưởng phòng Chăm sóc khách hàng",
+                       "room":  "cskh",
+                       "role":  "head",
+                       "vibe":  "Để ý trải nghiệm của từng học viên từ ngày đầu.",
+                       "color":  "#8e6bbf",
+                       "joinedAt":  "2026-10-25T22:08:09"
+                   },
+                   {
+                       "id":  "hlv-thu-thach",
+                       "name":  "Dũng",
+                       "title":  "Huấn luyện viên thử thách 3 ngày",
+                       "room":  "cskh",
+                       "role":  "staff",
+                       "vibe":  "Năng lượng cao, kéo mọi người đi hết ngày 3.",
+                       "color":  "#a98be0",
+                       "joinedAt":  "2026-10-25T22:08:09",
+                       "status":  "active",
+                       "suspendedAt":  "",
+                       "reason":  "",
+                       "prevRoom":  ""
+                   },
+                   {
+                       "id":  "ho-tro-hoc-vien",
+                       "name":  "My",
+                       "title":  "Hỗ trợ học viên \u0026 FAQ",
+                       "room":  "cskh",
+                       "role":  "staff",
+                       "vibe":  "Trả lời nhanh, rõ ràng, không bỏ sót câu hỏi nào.",
+                       "color":  "#b79cd9",
+                       "joinedAt":  "2026-10-25T22:08:09"
+                   },
+                   {
+                       "id":  "tp-nhan-su",
+                       "name":  "Linh",
+                       "title":  "Trưởng phòng Nhân sự",
+                       "room":  "nhan-su",
+                       "role":  "head",
+                       "vibe":  "Công bằng, nhìn dữ liệu trước khi nói.",
+                       "color":  "#c2547a",
+                       "riskAck":  [
+
+                                   ]
+                   },
+                   {
+                       "id":  "chuyen-vien-nhan-su",
+                       "name":  "Quân",
+                       "title":  "Chuyên viên hồ sơ \u0026 tuyển dụng",
+                       "room":  "nhan-su",
+                       "role":  "staff",
+                       "vibe":  "Gọn gàng, số liệu đâu ra đấy.",
+                       "color":  "#d9779b",
+                       "riskAck":  [
+
+                                   ]
+                   }
+               ]
+}

@@ -1,0 +1,18 @@
+{
+    "messages":  [
+                     {
+                         "fb":  "",
+                         "vote":  "",
+                         "text":  "alo",
+                         "role":  "user"
+                     },
+                     {
+                         "fb":  "",
+                         "vote":  "",
+                         "text":  "Alo anh, mình là Lan, quản trị cộng đồng Nas của Alan Academy.\n\nMình có thể soạn các việc sau, luôn kết thúc bằng lời mời nhẹ vào thử thách 3 ngày làm chủ video AI:\n- Bài hướng dẫn cho cộng đồng Nas\n- Bài ghim\n- Nội dung feed\n- Outline sản phẩm số\n\nAnh cho mình biết chủ đề và đối tượng, mình sẽ soạn bản nháp. Mình chỉ soạn nháp, không đăng lên Nas. Lưu ý là lượt chat thử này mình sẽ chỉ ghi vào `workspace/_thu-nghiem/cong-dong-nas/`.",
+                         "role":  "bot"
+                     }
+                 ],
+    "sid":  "391aea22-7f28-491d-909b-2ec61273113f",
+    "saved":  "2026-10-25T22:42:05"
+}

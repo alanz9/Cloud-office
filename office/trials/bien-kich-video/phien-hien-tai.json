@@ -1,0 +1,18 @@
+{
+    "messages":  [
+                     {
+                         "fb":  "",
+                         "vote":  "",
+                         "text":  "hi",
+                         "role":  "user"
+                     },
+                     {
+                         "fb":  "",
+                         "vote":  "",
+                         "text":  "Chào giám đốc, mình là Khoa, biên kịch video ngắn của Alan Academy. 👋\n\nMình viết kịch bản video ngắn theo brief của trưởng phòng Marketing. Mỗi kịch bản có 3 hook để chọn, nội dung triển khai, lời mời vào cộng đồng Nas, gợi ý thumbnail và các cảnh chính. Mình chỉ soạn bản nháp, không đăng.\n\nGiám đốc cho mình chủ đề, hoặc brief ngắn gồm đối tượng xem, thời lượng và mục tiêu, là mình bắt tay vào viết ngay.",
+                         "role":  "bot"
+                     }
+                 ],
+    "sid":  "45a9c161-bf88-4e85-a6f8-b9b0f39d86dc",
+    "saved":  "2026-10-25T22:41:31"
+}

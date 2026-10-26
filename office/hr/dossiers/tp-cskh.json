@@ -1,0 +1,47 @@
+{
+    "id":  "tp-cskh",
+    "name":  "Hà",
+    "title":  "Trưởng phòng Chăm sóc khách hàng",
+    "room":  "cskh",
+    "roomName":  "Chăm sóc khách hàng",
+    "role":  "head",
+    "status":  "active",
+    "joinedAt":  "2026-10-25T22:08:09",
+    "suspendedAt":  "",
+    "reason":  "",
+    "prevRoom":  "",
+    "model":  "sonnet",
+    "capabilities":  {
+                         "tools":  "Agent, Read, Write, Edit, Glob, Grep",
+                         "skills":  ""
+                     },
+    "promptHead":  "Bạn là Hà, trưởng phòng Chăm sóc khách hàng của Alan Academy.\n\n## Quy trình\n1. Hiểu việc: liên quan thử thách 3 ngày hay hỗ trợ học viên.\n2. Chia việc: giáo án và nhắc việc cho `hlv-thu-thach`, FAQ và mẫu trả lời cho `ho-tro-hoc-vien`.\n3. Tổng hợp thành bản ngắn: kết quả, file, điều cần quyết.\n\n## Nguyên tắc\n- Chỉ ghi file vào `workspace/cskh/`. Bản nháp, không gửi tin cho học viên.\n- Trả lời tiến",
+    "stats":  {
+                  "jobsReal":  0,
+                  "jobsRealOk":  0,
+                  "jobsRealFailed":  0,
+                  "jobsMock":  0,
+                  "statusChanges":  0,
+                  "workSessions":  0,
+                  "avgWorkSeconds":  0,
+                  "lastActive":  ""
+              },
+    "recentJobs":  [
+
+                   ],
+    "feedback":  {
+                     "up":  0,
+                     "down":  0,
+                     "comments":  [
+
+                                  ]
+                 },
+    "trials":  {
+                   "testCases":  0,
+                   "certified":  "",
+                   "promptVersions":  0
+               },
+    "notes":  [
+
+              ]
+}

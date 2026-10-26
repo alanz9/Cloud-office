@@ -1,0 +1,23 @@
+{
+    "id":  "261025-234022-0527",
+    "engine":  "claude:sonnet",
+    "files":  [
+                  "workspace/nhan-su/mo-ta-vi-tri-editor-media.md",
+                  "workspace/marketing/nhiem-vu-truong-phong.md",
+                  "workspace/marketing/quy-trinh-ngay.md",
+                  "workspace/nhan-su/prompt-cap-nhat-marketing.md",
+                  "workspace/nhan-su/ke-hoach-marketing-4-nguoi.md",
+                  "workspace/giam-doc/kiem-duyet-marketing-4-nguoi.md"
+              ],
+    "mode":  "run",
+    "title":  "Mình hiểu yêu cầu là Giám đốc muốn dựng phòng Marketing theo hướng: mỗ",
+    "source":  "",
+    "kind":  "chat",
+    "status":  "seen",
+    "summary":  "You\u0027ve hit your session limit · resets 3am (Asia/Bangkok)",
+    "error":  "",
+    "created":  "2026-10-25T23:47:01",
+    "isError":  true,
+    "cost":  1.1076520449999998,
+    "sid":  "013153d7-fdd3-496f-ba4e-48afa2c16900"
+}

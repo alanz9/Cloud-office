@@ -1,0 +1,18 @@
+{
+    "messages":  [
+                     {
+                         "fb":  "",
+                         "vote":  "",
+                         "text":  "hi",
+                         "role":  "user"
+                     },
+                     {
+                         "fb":  "",
+                         "vote":  "",
+                         "text":  "Chào giám đốc, em là Minh, trưởng phòng Marketing.\n\nEm lo phần phễu nội dung: video viral, cộng đồng Nas, thử thách 3 ngày, rồi khóa học. Em chia việc cho Khoa (kịch bản video) và Lan (bài hướng dẫn, feed, sản phẩm số).\n\nAnh cần em làm gì hôm nay? Ví dụ:\n- Lên lịch nội dung tuần này.\n- Chọn chủ đề cho video viral tiếp theo.\n- Soạn lời mời vào thử thách 3 ngày.\n\nĐây là chat thử nên em chưa ghi file nào.",
+                         "role":  "bot"
+                     }
+                 ],
+    "sid":  "0b5c3c64-7258-4e22-80f1-c37c19f275ff",
+    "saved":  "2026-10-25T22:44:30"
+}

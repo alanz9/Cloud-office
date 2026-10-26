@@ -1,0 +1,18 @@
+{
+    "messages":  [
+                     {
+                         "fb":  "",
+                         "vote":  "",
+                         "text":  "hi",
+                         "role":  "user"
+                     },
+                     {
+                         "fb":  "",
+                         "vote":  "",
+                         "text":  "Chào giám đốc, Hùng đây, trưởng phòng Sale.\n\nEm phụ trách phần chốt khóa học cho nhóm vừa xong thử thách 3 ngày và nhóm thành viên Nas chưa tham gia. Em có thể giúp những việc sau:\n\n- **Chiến lược chốt khóa:** ưu đãi giảm 50% cho người tham gia thử thách, hạn dùng mã, thông điệp.\n- **Chuỗi email chốt:** em giao cho Vy soạn bản nháp.\n- **Kịch bản tư vấn và xử lý từ chối:** em giao cho Tú.\n- **Tổng hợp rủi ro:** điều kiện ưu đãi nào cần nói rõ, lời hứa nào cần tránh.\n\nMọi thứ em chỉ soạn bản nháp. Em không gửi email và không tạo mã giảm giá thật.\n\nGiám đốc muốn bắt đầu từ mục tiêu doanh số nào ạ? Ví dụ: đợt chốt cho nhóm vừa xong thử thách, hay kéo thành viên Nas vào thử thách trước.",
+                         "role":  "bot"
+                     }
+                 ],
+    "sid":  "9b579421-c174-484f-ba75-64543706fb62",
+    "saved":  "2026-10-25T22:42:41"
+}

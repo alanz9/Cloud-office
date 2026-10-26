@@ -1,0 +1,51 @@
+{"ev":"job","kind":"trial","t":"2026-10-25T22:38:40","job":"261025-223837-1769","engine":"mock","label":"Chat thử Minh","cost":0,"ok":true,"files":0,"agents":["tp-marketing"]}
+{"ev":"job","kind":"trial","t":"2026-10-25T22:39:25","job":"261025-223919-8417","engine":"claude","label":"Chat thử Minh","cost":0,"ok":false,"files":0,"agents":["tp-marketing"]}
+{"ev":"job","kind":"trial","t":"2026-10-25T22:40:35","job":"261025-224027-7920","engine":"claude","label":"Chat thử Minh","cost":0,"ok":false,"files":0,"agents":["tp-marketing"]}
+{"ev":"job","kind":"trial","t":"2026-10-25T22:40:57","job":"261025-224052-3352","engine":"claude","label":"Chat thử Minh","cost":0,"ok":false,"files":0,"agents":["tp-marketing"]}
+{"ev":"job","kind":"trial","t":"2026-10-25T22:41:31","job":"261025-224122-8719","engine":"claude","label":"Chat thử Khoa","cost":0.044675200000000005,"ok":true,"files":0,"agents":["bien-kich-video"]}
+{"ev":"job","kind":"trial","t":"2026-10-25T22:41:47","job":"261025-224141-7673","engine":"claude","label":"Chat thử Minh","cost":0,"ok":false,"files":0,"agents":["tp-marketing"]}
+{"ev":"job","kind":"trial","t":"2026-10-25T22:42:08","job":"261025-224156-2418","engine":"claude","label":"Chat thử Lan","cost":0.0029733000000000003,"ok":true,"files":0,"agents":["cong-dong-nas"]}
+{"ev":"job","kind":"trial","t":"2026-10-25T22:42:46","job":"261025-224233-7077","engine":"claude","label":"Chat thử Hùng","cost":0.0737535,"ok":true,"files":0,"agents":["tp-sale"]}
+{"ev":"job","kind":"trial","t":"2026-10-25T22:43:07","job":"261025-224254-7072","engine":"claude","label":"Chat thử Linh","cost":0.0488122,"ok":true,"files":0,"agents":["tp-nhan-su"]}
+{"ev":"job","kind":"trial","t":"2026-10-25T22:43:40","job":"261025-224327-6642","engine":"claude","label":"Chat thử Hà","cost":0.0503659,"ok":true,"files":0,"agents":["tp-cskh"]}
+{"ev":"job","kind":"trial","t":"2026-10-25T22:44:34","job":"261025-224419-5354","engine":"claude","label":"Chat thử Minh","cost":0.07659660000000001,"ok":true,"files":0,"agents":["tp-marketing"]}
+{"ev":"job","kind":"chat","t":"2026-10-25T23:05:09","job":"261025-230422-5890","engine":"claude","label":"Chúng ta cần cơ cấu phòng marketing trước, để tôi mô tả công việc hàng","cost":0.1694659,"ok":true,"files":0,"agents":[]}
+{"ev":"job","kind":"chat","t":"2026-10-25T23:29:20","job":"261025-232916-2593","engine":"mock","label":"Lên kế hoạch video tuần này","cost":0,"ok":true,"files":0,"agents":[]}
+{"ev":"job","kind":"chat","t":"2026-10-25T23:29:26","job":"261025-232920-1153","engine":"mock","label":"Lên kế hoạch video tuần này","cost":0,"ok":true,"files":0,"agents":[]}
+{"id":"tro-ly","ev":"status","t":"2026-10-25T23:29:36","task":"Điều phối: Lên kế hoạch video tuần này","from":"idle","to":"working"}
+{"id":"bien-kich-video","ev":"status","t":"2026-10-25T23:29:42","task":"Xong bản nháp, chờ duyệt","from":"idle","to":"review"}
+{"id":"email-chot","ev":"status","t":"2026-10-25T23:29:42","task":"Soạn bản nháp: Lên kế hoạch video tuần này","from":"idle","to":"working"}
+{"id":"email-chot","ev":"status","t":"2026-10-25T23:29:47","task":"Xong bản nháp, chờ duyệt","from":"working","to":"review"}
+{"id":"hlv-thu-thach","ev":"status","t":"2026-10-25T23:29:47","task":"Soạn bản nháp: Lên kế hoạch video tuần này","from":"idle","to":"working"}
+{"id":"kiem-duyet","ev":"status","t":"2026-10-25T23:29:52","task":"Rà soát các bản nháp","from":"idle","to":"working"}
+{"id":"hlv-thu-thach","ev":"status","t":"2026-10-25T23:29:52","task":"Xong bản nháp, chờ duyệt","from":"working","to":"review"}
+{"id":"tro-ly","ev":"status","t":"2026-10-25T23:29:57","task":"Hoàn thành: Lên kế hoạch video tuần này","from":"working","to":"done"}
+{"id":"kiem-duyet","ev":"status","t":"2026-10-25T23:29:57","task":"Đã duyệt, đạt","from":"working","to":"done"}
+{"id":"bien-kich-video","ev":"status","t":"2026-10-25T23:29:58","task":"Hoàn thành","from":"review","to":"done"}
+{"id":"email-chot","ev":"status","t":"2026-10-25T23:29:58","task":"Hoàn thành","from":"review","to":"done"}
+{"id":"hlv-thu-thach","ev":"status","t":"2026-10-25T23:29:58","task":"Hoàn thành","from":"review","to":"done"}
+{"ev":"job","kind":"chat","t":"2026-10-25T23:30:03","job":"261025-232934-8324","engine":"mock","label":"Lên kế hoạch video tuần này","cost":0,"ok":true,"files":4,"agents":["bien-kich-video","email-chot","hlv-thu-thach","kiem-duyet"]}
+{"id":"tro-ly","ev":"status","t":"2026-10-25T23:30:03","task":"Chưa có việc","from":"done","to":"idle"}
+{"id":"kiem-duyet","ev":"status","t":"2026-10-25T23:30:03","task":"Chưa có việc","from":"done","to":"idle"}
+{"id":"bien-kich-video","ev":"status","t":"2026-10-25T23:30:03","task":"Chưa có việc","from":"done","to":"idle"}
+{"id":"email-chot","ev":"status","t":"2026-10-25T23:30:03","task":"Chưa có việc","from":"done","to":"idle"}
+{"id":"hlv-thu-thach","ev":"status","t":"2026-10-25T23:30:03","task":"Chưa có việc","from":"done","to":"idle"}
+{"ev":"job","kind":"chat","t":"2026-10-25T23:30:24","job":"261025-233018-2094","engine":"mock","label":"Lên kế hoạch video tuần này","cost":0,"ok":true,"files":0,"agents":[]}
+{"ev":"job","kind":"trial","t":"2026-10-25T23:31:16","job":"261025-233111-8576","engine":"claude","label":"Chat thử My","cost":0,"ok":false,"files":0,"agents":["ho-tro-hoc-vien"]}
+{"ev":"job","kind":"trial","t":"2026-10-25T23:31:21","job":"261025-233114-6216","engine":"claude","label":"Chat thử My","cost":0.0026637200000000005,"ok":true,"files":0,"agents":["ho-tro-hoc-vien"]}
+{"ev":"job","kind":"chat","t":"2026-10-25T23:32:15","job":"261025-233155-3852","engine":"claude","label":"Lên ý tưởng 1 video ngắn giới thiệu thử thách 3 ngày. Đưa cho mình 2 p","cost":0.1253118,"ok":true,"files":0,"agents":[]}
+{"ev":"job","kind":"chat","t":"2026-10-25T23:32:42","job":"261025-233221-7341","engine":"claude","label":"Lên ý tưởng 1 video ngắn giới thiệu thử thách 3 ngày. Đưa cho mình 2 p","cost":0.18642720000000002,"ok":true,"files":0,"agents":[]}
+{"ev":"job","kind":"chat","t":"2026-10-25T23:35:53","job":"261025-233512-6200","engine":"claude","label":"Mình hiểu yêu cầu là Giám đốc muốn dựng phòng Marketing theo hướng: mỗ","cost":0.1613726,"ok":true,"files":0,"agents":[]}
+{"ev":"job","kind":"chat","t":"2026-10-25T23:37:44","job":"261025-233719-6905","engine":"claude","label":"Mình hiểu yêu cầu là Giám đốc muốn dựng phòng Marketing theo hướng: mỗ","cost":0.2440539,"ok":true,"files":0,"agents":[]}
+{"id":"tro-ly","ev":"status","t":"2026-10-25T23:41:07","task":"Dựng cơ cấu phòng Marketing 4 người","from":"idle","to":"working"}
+{"id":"chuyen-vien-nhan-su","ev":"status","t":"2026-10-25T23:41:07","task":"Soạn bản nháp mô tả vị trí Editor media và prompt cập nhật Marketing","from":"idle","to":"working"}
+{"id":"tp-marketing","ev":"status","t":"2026-10-25T23:41:13","task":"Soạn nhiệm vụ trưởng phòng và quy trình ngày","from":"idle","to":"working"}
+{"id":"tp-marketing","ev":"status","t":"2026-10-25T23:41:34","task":"Đã soạn 2 file nhiệm vụ và quy trình, chờ Chi rà","from":"working","to":"review"}
+{"id":"chuyen-vien-nhan-su","ev":"status","t":"2026-10-25T23:42:02","task":"Đã soạn 2 bản nháp, chờ Linh rà","from":"working","to":"done"}
+{"id":"tp-nhan-su","ev":"status","t":"2026-10-25T23:42:18","task":"Soạn kế hoạch Marketing 4 người","from":"idle","to":"working"}
+{"id":"kiem-duyet","ev":"status","t":"2026-10-25T23:42:40","task":"Rà 4 bản nháp marketing và nhân sự","from":"idle","to":"working"}
+{"id":"kiem-duyet","ev":"status","t":"2026-10-25T23:43:01","task":"Đã rà 4 bản nháp marketing và nhân sự","from":"working","to":"done"}
+{"id":"tp-nhan-su","ev":"status","t":"2026-10-25T23:43:01","task":"Đã soạn kế hoạch Marketing 4 người","from":"working","to":"done"}
+{"id":"chuyen-vien-nhan-su","ev":"status","t":"2026-10-25T23:44:32","task":"Sửa 3 bản nháp theo nhận xét của Chi (phần nhân sự)","from":"done","to":"working"}
+{"id":"chuyen-vien-nhan-su","ev":"status","t":"2026-10-25T23:45:37","task":"Đã sửa 3 bản nháp theo nhận xét của Chi, chờ Linh rà","from":"working","to":"done"}
+{"ev":"job","kind":"chat","t":"2026-10-25T23:47:01","job":"261025-234022-0527","engine":"claude","label":"Mình hiểu yêu cầu là Giám đốc muốn dựng phòng Marketing theo hướng: mỗ","cost":1.1076520449999998,"ok":false,"files":6,"agents":["kiem-duyet","tp-nhan-su","tp-marketing","chuyen-vien-nhan-su"]}

@@ -1,0 +1,18 @@
+{
+    "messages":  [
+                     {
+                         "fb":  "",
+                         "vote":  "",
+                         "text":  "hi",
+                         "role":  "user"
+                     },
+                     {
+                         "fb":  "",
+                         "vote":  "",
+                         "text":  "Chào giám đốc, Hà đây, trưởng phòng CSKH.\n\nPhòng em đang có Dũng lo giáo án và nhắc việc cho thử thách 3 ngày, còn My lo FAQ và mẫu trả lời học viên. Anh/chị cần em làm việc gì ạ?",
+                         "role":  "bot"
+                     }
+                 ],
+    "sid":  "294bf6ab-2d2e-4c45-b027-fb4246aa9ff6",
+    "saved":  "2026-10-25T22:43:39"
+}

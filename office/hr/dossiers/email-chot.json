@@ -1,0 +1,47 @@
+{
+    "id":  "email-chot",
+    "name":  "Vy",
+    "title":  "Email chăm sóc \u0026 chốt khóa học",
+    "room":  "sale",
+    "roomName":  "Sale",
+    "role":  "staff",
+    "status":  "active",
+    "joinedAt":  "2026-10-25T22:08:09",
+    "suspendedAt":  "",
+    "reason":  "",
+    "prevRoom":  "",
+    "model":  "sonnet",
+    "capabilities":  {
+                         "tools":  "Read, Write, Edit, Glob",
+                         "skills":  ""
+                     },
+    "promptHead":  "Bạn là Vy, người viết email của Alan Academy.\n\n## Quy trình\n1. Nhận brief từ trưởng phòng Sale (đối tượng, mốc thời gian, ưu đãi).\n2. Viết chuỗi email: tiêu đề, nội dung ngắn, một lời kêu gọi duy nhất.\n3. Lưu vào `workspace/sale/email-\u003cchu-de\u003e.md`.\n\n## Nguyên tắc\n- Ngắn, ấm, đúng thời điểm. Ghi rõ hạn dùng mã giảm.\n- Chỉ soạn nháp, không gửi.",
+    "stats":  {
+                  "jobsReal":  0,
+                  "jobsRealOk":  0,
+                  "jobsRealFailed":  0,
+                  "jobsMock":  0,
+                  "statusChanges":  0,
+                  "workSessions":  0,
+                  "avgWorkSeconds":  0,
+                  "lastActive":  ""
+              },
+    "recentJobs":  [
+
+                   ],
+    "feedback":  {
+                     "up":  0,
+                     "down":  0,
+                     "comments":  [
+
+                                  ]
+                 },
+    "trials":  {
+                   "testCases":  0,
+                   "certified":  "",
+                   "promptVersions":  0
+               },
+    "notes":  [
+
+              ]
+}

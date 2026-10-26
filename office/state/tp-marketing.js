@@ -1,0 +1,2 @@
+window.AGENTS = window.AGENTS || {};
+window.AGENTS["tp-marketing"] = { status: "review", task: "Đã sửa 2 file theo nhận xét của Chi, chờ Chi rà lại", say: "Đã chốt đường dẫn và giờ, chờ Chi rà lại", to: "kiem-duyet", log: ["09:00 Sẵn sàng", "10:00 Bắt đầu soạn nhiem-vu-truong-phong và quy-trinh-ngay", "10:20 Xong 2 file, chuyển Chi rà", "11:00 Bắt đầu sửa theo nhận xét của Chi", "11:20 Xong: chốt bảng đường dẫn, sắp lại giờ, ghi xin phép đăng từng lần"] };

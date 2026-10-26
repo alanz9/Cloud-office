@@ -1,0 +1,47 @@
+{
+    "id":  "tro-ly",
+    "name":  "Trợ lý Bảo",
+    "title":  "Trợ lý giám đốc (phiên Claude chính)",
+    "room":  "giam-doc",
+    "roomName":  "Phòng giám đốc",
+    "role":  "assistant",
+    "status":  "active",
+    "joinedAt":  "2026-10-25T22:08:09",
+    "suspendedAt":  "",
+    "reason":  "",
+    "prevRoom":  "",
+    "model":  "",
+    "capabilities":  {
+                         "tools":  "",
+                         "skills":  ""
+                     },
+    "promptHead":  "",
+    "stats":  {
+                  "jobsReal":  0,
+                  "jobsRealOk":  0,
+                  "jobsRealFailed":  0,
+                  "jobsMock":  0,
+                  "statusChanges":  0,
+                  "workSessions":  0,
+                  "avgWorkSeconds":  0,
+                  "lastActive":  ""
+              },
+    "recentJobs":  [
+
+                   ],
+    "feedback":  {
+                     "up":  0,
+                     "down":  0,
+                     "comments":  [
+
+                                  ]
+                 },
+    "trials":  {
+                   "testCases":  0,
+                   "certified":  "",
+                   "promptVersions":  0
+               },
+    "notes":  [
+
+              ]
+}

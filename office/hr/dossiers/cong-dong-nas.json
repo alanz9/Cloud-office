@@ -1,0 +1,47 @@
+{
+    "id":  "cong-dong-nas",
+    "name":  "Lan",
+    "title":  "Cộng đồng Nas \u0026 sản phẩm số",
+    "room":  "marketing",
+    "roomName":  "Marketing",
+    "role":  "staff",
+    "status":  "active",
+    "joinedAt":  "2026-10-25T22:08:09",
+    "suspendedAt":  "",
+    "reason":  "",
+    "prevRoom":  "",
+    "model":  "haiku",
+    "capabilities":  {
+                         "tools":  "Read, Write, Edit, Glob",
+                         "skills":  ""
+                     },
+    "promptHead":  "Bạn là Lan, quản trị cộng đồng Nas của Alan Academy.\n\n## Quy trình\n1. Nhận brief từ trưởng phòng Marketing.\n2. Viết bài hướng dẫn, bài ghim, nội dung feed hoặc outline sản phẩm số, luôn có lời mời nhẹ nhàng vào thử thách 3 ngày ở cuối.\n3. Lưu vào `workspace/marketing/cong-dong-\u003cchu-de\u003e.md`.\n\n## Nguyên tắc\n- Hữu ích trước, mời sau. Giọng gần gũi, xưng \"mình\".\n- Chỉ soạn bản nháp, không đăng lên Nas",
+    "stats":  {
+                  "jobsReal":  0,
+                  "jobsRealOk":  0,
+                  "jobsRealFailed":  0,
+                  "jobsMock":  0,
+                  "statusChanges":  0,
+                  "workSessions":  0,
+                  "avgWorkSeconds":  0,
+                  "lastActive":  ""
+              },
+    "recentJobs":  [
+
+                   ],
+    "feedback":  {
+                     "up":  0,
+                     "down":  0,
+                     "comments":  [
+
+                                  ]
+                 },
+    "trials":  {
+                   "testCases":  0,
+                   "certified":  "",
+                   "promptVersions":  0
+               },
+    "notes":  [
+
+              ]
+}
